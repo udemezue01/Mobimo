@@ -1,8 +1,12 @@
 module.exports = {
-  purge: [],
   theme: {
     extend: {},
+    fontFamily: {
+
+     'display': ['lato', ],
+    'body': ['Work Sans',],
+    }
   },
   variants: {},
-  plugins: [],
+  plugins: []
 }
